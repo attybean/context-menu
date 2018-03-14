@@ -1,0 +1,6 @@
+{
+    "name": "attybean/contextMenu",
+    "version": "dev-master",   
+    "type": "yii2-extension",  
+    "minimum-stability": "dev"
+    }
