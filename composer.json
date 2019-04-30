@@ -1,5 +1,5 @@
 {
-    "name": "attybean/context-menu",
+    "name": "byggmann/context-menu",
     "version": "dev-master",   
     "type": "yii2-extension",  
     "minimum-stability": "dev"
